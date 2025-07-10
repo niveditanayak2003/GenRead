@@ -1,8 +1,7 @@
-streamlit
-transformers
-torch
+streamlit==1.32.0
+transformers==4.37.2
+torch==2.2.0
 matplotlib
 scikit-learn
 numpy
-Pillow
-sentencepiece
+pandas

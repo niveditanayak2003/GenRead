@@ -80,7 +80,8 @@ streamlit run app.py
 5. View the answer + heatmap (if extractive mode is selected)
 
 ---
-
+## Live demo
+🧠[GenRead](https://genread-qeancs5gbhlvx4wctemscn.streamlit.app/)
 ---
 
 ## 👤 Author

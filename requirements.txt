@@ -1,0 +1,8 @@
+transformers==4.41.1
+torch
+streamlit
+shap
+matplotlib
+scikit-learn
+numpy
+pandas

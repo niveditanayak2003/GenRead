@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+genread_env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Streamlit config and cache
+.streamlit/
+.cache/
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.env.*
+
+# Model weights (optional)
+*.pt
+*.h5
+
+# Attention maps or generated media
+attention_heatmap.png
+
+
+# VSCode and IDE settings
+.vscode/
+.idea/
